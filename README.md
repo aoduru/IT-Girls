@@ -1,43 +1,32 @@
 # IT-Girls
-Hackathon Project for [2021 Black Wings Hacks Hackathon](https://rewritingthecode.org/black-wings-hacks/)
-
-<br/>
-
-Link to Hopin, [here](https://app.hopin.com/events/black-wings-hacks/reception)
-<br>
+Hackathon Project for [2021 Black Wings Hacks Hackathon](https://rewritingthecode.org/black-wings-hacks/) <br/>
+Link to Hopin, [here](https://app.hopin.com/events/black-wings-hacks/reception) <br/>
 Link to Devpost, [here](https://blackwingshacks2021.devpost.com/)
 
-<br><br>
+<br>
 
-## Team Members
-
-### Shanice Smith
-_**Game Design**_ <br/>
+# Team Members
+**Shanice Smith**, _Game Design_ <br/>
 CUNY City Tech, NYC, 2021
 
-<br>
 
-### Uju Duru
-_**Cognitive Science and Computer Science**_ <br/>
+**Uju Duru**, _Cognitive Science and Computer Science_ <br/>
 Johns Hopkins University, 2021
 
-<br>
 
-### Yesenia Odalyss
-_**Computer Engineering and Robotics**_ <br/>
+**Yesenia Odalyss**, _Computer Engineering and Robotics_ <br/>
 Johns Hopkins University, 2022
 
-<br>
 
-### Camisa Vines
-_**Computer Science**_ <br/>
+**Camisa Vines**, _Computer Science_ <br/>
 Indiana University-Bloomington, 2022
 
 
+<br/>
+<br/>
 
 
-# React Generated
-# Getting Started with Create React App
+# React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

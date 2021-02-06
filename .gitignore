@@ -4,6 +4,8 @@
 
 # Custon
 /node_modules
+/dist
+
 
 
 ### macOS ###
