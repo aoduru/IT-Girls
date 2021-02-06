@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import * as ROUTES from "../../constants/routes";
 import navicon from "../../images/navicon.svg";
 import "./navbar.css";
@@ -10,7 +10,7 @@ function Navbar() {
         <>
             <nav>
                 <Link className="nav-brand" to={ROUTES.HOME}>
-                    <img src={navicon} />
+                    <img src={navicon} alt="navicon" />
                     COVID-19
                 </Link>
 
