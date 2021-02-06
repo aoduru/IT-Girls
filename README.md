@@ -19,13 +19,13 @@ CUNY City Tech, NYC, 2021
 
 ### Uju Duru
 _**Cognitive Science and Computer Science**_ <br/>
-Hopkins, 2021
+Johns Hopkins University, 2021
 
 <br>
 
 ### Yesenia Odalyss
 _**Computer Engineering and Robotics**_ <br/>
-Hopkins, 2022
+Johns Hopkins University, 2022
 
 <br>
 
