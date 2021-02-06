@@ -14,13 +14,19 @@ Link to Devpost, [here](https://blackwingshacks2021.devpost.com/)
 _**Game Design**_ <br/>
 CUNY City Tech, NYC, 2021
 
+<br>
+
 ### Uju Duru
 _**Cognitive Science and Computer Science**_ <br/>
 Hopkins, 2021
 
+<br>
+
 ### Yesenia Odalyss
 _**Computer Engineering and Robotics**_ <br/>
 Hopkins, 2022
+
+<br>
 
 ### Camisa Vines
 _**Computer Science**_ <br/>
