@@ -1,4 +1,4 @@
-export const HOME = "/";
-export const ABOUT = "/about";
-export const HISTORY = "/history";
-export const ELIGIBILITY = "/eligibility";
+export const HOME = "/IT-Girls";
+export const ABOUT = "/IT-Girls/about";
+export const HISTORY = "/IT-Girls/history";
+export const ELIGIBILITY = "/IT-Girls/eligibility";
