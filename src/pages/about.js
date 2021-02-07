@@ -6,6 +6,7 @@ import "../styles/about.css";
 import placeholderimage from "../images/image.jpeg";
 import camisa from "../images/camisa.jpg";
 import uju from "../images/uju.jpg";
+import shanice from "../images/shanice.JPG";
 
 class About extends React.Component {
     render() {
@@ -14,16 +15,6 @@ class About extends React.Component {
                 <div className="flex flex-col about-container">
                     <div className="about-section containers">
                         <h1>About</h1>
-
-
-                        <h2>The Problem</h2>
-                        <div className="row">
-                        </div>
-
-                        <div className="about-section-divider"></div>
-                        <h2>Our Solution</h2>
-                        <div className="row">
-                        </div>
 
 
 
@@ -36,10 +27,10 @@ class About extends React.Component {
                             {/* Team Member 1 */}
                             <div className="col-sm-6 col-lg-3">
                                 <div className="card">
-                                    <img className="card-img-top" src={placeholderimage} alt="Shanice" />
+                                    <img className="card-img-top" src={shanice} alt="Shanice" />
                                     <div class="card-body">
                                         <h5 class="card-title">Shanice</h5>
-                                        <p class="card-text">bio text.</p>
+                                        <p class="card-text">Game Design at CUNY City Tech, NYC, 2021</p>
                                         <a href="#" class="btn btn-primary">Shanice's LinkedIn</a>
                                     </div>
                                 </div>
@@ -51,7 +42,7 @@ class About extends React.Component {
                                     <img className="card-img-top" src={uju} alt="Uju" />
                                     <div class="card-body">
                                         <h5 class="card-title">Uju</h5>
-                                        <p class="card-text">bio text.</p>
+                                        <p class="card-text">Cognitive Science and Computer Science at Johns Hopkins University, 2021</p>
                                         <a href="#" class="btn btn-primary">Uju's LinkedIn</a>
                                     </div>
                                 </div>
@@ -63,7 +54,7 @@ class About extends React.Component {
                                     <img className="card-img-top" src={placeholderimage} alt="Yesenia" />
                                     <div class="card-body">
                                         <h5 class="card-title">Yesenia</h5>
-                                        <p class="card-text">bio text.</p>
+                                        <p class="card-text">Computer Engineering and Robotics at Johns Hopkins University, 2022</p>
                                         <a href="#" class="btn btn-primary">Yesenia's LinkedIn</a>
                                     </div>
                                 </div>
@@ -75,7 +66,7 @@ class About extends React.Component {
                                     <img className="card-img-top" src={camisa} alt="Camisa" />
                                     <div class="card-body">
                                         <h5 class="card-title">Camisa</h5>
-                                        <p class="card-text">bio text.</p>
+                                        <p class="card-text">Computer Science at Indiana University-Bloomington, 2021</p>
                                         <a href="#" class="btn btn-primary">Camisa's LinkedIn</a>
                                     </div>
                                 </div>

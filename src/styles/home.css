@@ -28,3 +28,8 @@
     padding-bottom: 5vh;
     height: 100vh;
 }
+
+.home-section h2 {
+    font-size: 36pt;
+    margin-bottom: 5vh;
+}
