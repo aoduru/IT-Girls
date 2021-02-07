@@ -30,7 +30,9 @@ class Home extends React.Component {
                         <h4>The Problem</h4>
                         <p>
                             There are racial disparities of COVID-19 cases, deaths, and vaccinations in the United States that aren’t being addressed. 
-                            This leads communities of colors vulnerable during the pandemic.
+                            We have seen this in our own family and communities. 
+                            We know that communities of color, specifically Black, Latinx, and Native American communities, have doubts about receiving the vaccine due to false claims and fake news surrounding the virus. 
+                            This leaves our communities, and quite frankly everyone, vulnerable during the pandemic.
                         </p>
                     </div>
 
