@@ -30,7 +30,9 @@ class Home extends React.Component {
                         <h4>The Problem</h4>
                         <p>
                             There are racial disparities of COVID-19 cases, deaths, and vaccinations in the United States that aren’t being addressed. 
-                            This leads communities of colors vulnerable during the pandemic.
+                            We have seen this in our own family and communities. 
+                            We know that communities of color, specifically Black, Latinx, and Native American communities, have doubts about receiving the vaccine due to false claims and fake news surrounding the virus. 
+                            This leaves our communities, and quite frankly everyone, vulnerable during the pandemic.
                         </p>
                     </div>
 
@@ -51,7 +53,7 @@ class Home extends React.Component {
                 <div className="row">
 
                     {/* Research Card 1*/}
-                    <div className="col-md-4">
+                    <div className="col-md-6 col-lg-4">
                         <div className="card">
                             <img className="card-img-top" src="https://gray-wbay-prod.cdn.arcpublishing.com/resizer/fln06LgHS8awdDtCHhWoikKI7UE=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/X3TAX5IMPBHY7EBGM6XW47YETE.jpg" alt="abcnews logo" />
                             <div className="card-body">
@@ -63,8 +65,8 @@ class Home extends React.Component {
                         </div>
                     </div>
 
-
-                    <div className="col-md-4">
+                    {/* Research Card 2*/}
+                    <div className="col-md-6 col-lg-4">
                         <div className="card">
                             <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEb7BAHJY1Sy3gUxj1qU3yQ565CMpnRKMHxw&usqp=CAU" alt="abcnews logo" />
                             <div className="card-body">
@@ -76,14 +78,50 @@ class Home extends React.Component {
                         </div>
                     </div>
 
-
-                    <div className="col-md-4">
+                    {/* Research Card 3*/}
+                    <div className="col-md-6 col-lg-4">
                         <div className="card">
-                            <img className="card-img-top" src="https://www.naaccr.org/wp-content/uploads/2016/11/cdc-logo.jpg" alt="abcnews logo" />
+                            <img className="card-img-top" src="https://www.naaccr.org/wp-content/uploads/2016/11/cdc-logo.jpg" style={{width: "85%", alignSelf: "center"}} alt="abcnews logo" />
                             <div className="card-body">
                                 <h3 className="card-title">Benefits of Getting a COVID-19 Vaccine</h3>
                                 <p><i>"We understand that some people may be concerned about getting vaccinated now that COVID-19 vaccines are available in the United States. While more COVID-19 vaccines are being developed as quickly as possible, routine..."</i></p>
                                 <button type="button" class="btn"><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html">Read Article</a></button>
+                            </div>
+                        
+                        </div>
+                    </div>
+
+                    <div className="col-md-6 col-lg-4">
+                        <div className="card">
+                            <img className="card-img-top" src="https://www.logosvgpng.com/wp-content/uploads/2018/03/the-mercury-news-logo-vector.png" style={{width: "80%", alignSelf: "center"}} alt="abcnews logo" />
+                            <div className="card-body">
+                                <h3 className="card-title">Racial disparities haunt Bay Area COVID vaccine programs</h3>
+                                <p><i>"Local leaders are pushing for more equitable access to vaccines"</i></p>
+                                <button type="button" class="btn"><a href="https://www.mercurynews.com/2021/02/04/racial-disparities-haunt-bay-area-covid-vaccine-programs/">Read Article</a></button>
+                            </div>
+                        
+                        </div>
+                    </div>
+
+                    <div className="col-md-6 col-lg-4">
+                        <div className="card">
+                            <img className="card-img-top" src="https://media.istockphoto.com/vectors/food-and-drug-administration-fda-approved-vector-stamp-vector-id1250459233?k=6&m=1250459233&s=612x612&w=0&h=8X6uaTBGlxkAwklpcRsn7FDfB8QQbe_-nD8XdmWPXew=" style={{width: "50%", alignSelf: "center"}} alt="abcnews logo" />
+                            <div className="card-body">
+                                <h3 className="card-title">Pfizer-BioNTech COVID-19 Vaccine</h3>
+                                <p><i>"On December 11, 2020, the U.S. Food and Drug Administration issued the first emergency use authorization (EUA) for a vaccine for the prevention of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory..."</i></p>
+                                <button type="button" class="btn"><a href="https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine">Read Article</a></button>
+                            </div>
+                        
+                        </div>
+                    </div>
+
+                    <div className="col-md-6 col-lg-4">
+                        <div className="card">
+                            <img className="card-img-top" src="https://tukuz.com/wp-content/uploads/2020/09/healthline-logo-vector.png" style={{width: "75%", alignSelf: "center"}} alt="abcnews logo" />
+                            <div className="card-body">
+                                <h3 className="card-title">Why Some Black and Latinx People Are Reluctant to Get the COVID-19 Vaccine</h3>
+                                <p><i>"Experts say we need to work directly with community leaders and amplify the voices of people of color to ease fears, build trust, and disseminate proper information about the vaccines."</i></p>
+                                <button type="button" class="btn"><a href="https://www.healthline.com/health-news/why-some-black-and-latinx-people-are-reluctant-to-get-the-covid-19-vaccine#From-Tuskegee-to-now:-A-complex-history-of-medical-racism">Read Article</a></button>
                             </div>
                         
                         </div>

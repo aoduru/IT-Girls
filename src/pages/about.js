@@ -62,7 +62,7 @@ class About extends React.Component {
                                     <img className="card-img-top" src={camisa} alt="Camisa" />
                                     <div class="card-body">
                                         <h5 class="card-title">Camisa</h5>
-                                        <p class="card-text">Computer Science at Indiana University-Bloomington, 2021</p>
+                                        <p class="card-text">Computer Science at Indiana University-Bloomington, 2022</p>
                                         <a href="https://www.linkedin.com/in/camisavines/" class="btn btn-primary">Camisa's LinkedIn</a>
                                     </div>
                                 </div>
