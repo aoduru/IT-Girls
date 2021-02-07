@@ -1,6 +1,6 @@
 import React from 'react';
 // This page has bootstrap
-import 'bootstrap/dist/css/bootstrap.css';
+import'bootstrap/dist/css/bootstrap.min.css';
 import "../styles/home.css";
 
 
@@ -53,7 +53,7 @@ class Home extends React.Component {
                     {/* Research Card 1*/}
                     <div className="col-md-4">
                         <div className="card">
-                            <img className="card-img-top" src="https://gray-wbay-prod.cdn.arcpublishing.com/resizer/fln06LgHS8awdDtCHhWoikKI7UE=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/X3TAX5IMPBHY7EBGM6XW47YETE.jpg" />
+                            <img className="card-img-top" src="https://gray-wbay-prod.cdn.arcpublishing.com/resizer/fln06LgHS8awdDtCHhWoikKI7UE=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/X3TAX5IMPBHY7EBGM6XW47YETE.jpg" alt="abcnews logo" />
                             <div className="card-body">
                                 <h3 className="card-title">Racial disparities seen in New York City vaccination rates</h3>
                                 <p><i>"New York City Mayor Bill de Blasio is acknowledging that Black and Latino New Yorkers are receiving COVID-19 vaccines at far lower rates than white or Asian residents"</i></p>

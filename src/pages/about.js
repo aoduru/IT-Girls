@@ -31,7 +31,7 @@ class About extends React.Component {
                                     <div class="card-body">
                                         <h5 class="card-title">Shanice</h5>
                                         <p class="card-text">Game Design at CUNY City Tech, NYC, 2021</p>
-                                        <a href="#" class="btn btn-primary">Shanice's LinkedIn</a>
+                                        <a href="http://linkedin.com/in/shanicesmith-swe" class="btn btn-primary">Shanice's LinkedIn</a>
                                     </div>
                                 </div>
                             </div>
@@ -43,7 +43,7 @@ class About extends React.Component {
                                     <div class="card-body">
                                         <h5 class="card-title">Uju</h5>
                                         <p class="card-text">Cognitive Science and Computer Science at Johns Hopkins University, 2021</p>
-                                        <a href="#" class="btn btn-primary">Uju's LinkedIn</a>
+                                        <a href="https://www.linkedin.com/in/anthonia-uju-duru/" class="btn btn-primary">Uju's LinkedIn</a>
                                     </div>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@ class About extends React.Component {
                                     <div class="card-body">
                                         <h5 class="card-title">Yesenia</h5>
                                         <p class="card-text">Computer Engineering and Robotics at Johns Hopkins University, 2022</p>
-                                        <a href="#" class="btn btn-primary">Yesenia's LinkedIn</a>
+                                        <a href="https://www.linkedin.com/in/yesenia-odalyss/" class="btn btn-primary">Yesenia's LinkedIn</a>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@ class About extends React.Component {
                                     <div class="card-body">
                                         <h5 class="card-title">Camisa</h5>
                                         <p class="card-text">Computer Science at Indiana University-Bloomington, 2021</p>
-                                        <a href="#" class="btn btn-primary">Camisa's LinkedIn</a>
+                                        <a href="https://www.linkedin.com/in/camisavines/" class="btn btn-primary">Camisa's LinkedIn</a>
                                     </div>
                                 </div>
                             </div>
