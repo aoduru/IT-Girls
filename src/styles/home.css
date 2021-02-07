@@ -1,20 +1,30 @@
 .home-hero {
-    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url("../images/hero.jpg");
-    min-height: 90vh;
-    background-size: cover;
-    background-attachment: fixed;
-    /* background-position: center; */
     display: flex;
     justify-content: center;
-    text-align: center;
+    align-items: center;
+    /* text-align: center; */
+    background-color: #E6FFF3;
+    min-height: 90vh;
+    color: #14B8A6;
+}
+
+.home-hero-img {
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url("../images/hero.jpg");
+    background-size: cover;
+    min-height: 90vh;
+    background-attachment: fixed;
+    background-position: 350px 0;
+    background-repeat: no-repeat;
 }
 
 .home-hero h1 {
     font-size: 64pt;
     /* font-weight: bolder; */
-    color: white;
+    /* color: white; */
 }
 
 .home-section {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
     height: 100vh;
 }
