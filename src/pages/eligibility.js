@@ -5,11 +5,7 @@ class Eligibility extends React.Component {
     render() {
         return (
             <>
-<<<<<<< HEAD
                 <div className="flex flex-col elig-container">                
-=======
-                <div className="flex flex-col about-container">                
->>>>>>> 5b0c8396d9fb4ca872de458d5d5514fee2b9ef4f
                     <div className="containers">
                         <h1>Eligibility</h1>
                         <table class="table table-fixed">
@@ -28,14 +24,14 @@ class Eligibility extends React.Component {
                                     <td>Phase 1b</td>
                                     <td>Adults 75 and older and first responders, police officers and firefighters included</td>
                                     <td>Pfizer, Moderna</td>
-                                    <td>Link to Website</td>
+                                    <td><a href="https://www.alabamapublichealth.gov/covid19vaccine/index.html" target="_blank">Link to Website</a></td>
                                 </tr>
                                 <tr>
                                     <td>Arizona</td>
-                                    <td>Phase 1b</td>
-                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Priority Phase 1B</td>
+                                    <td>Education & Childcare Workers, Protective Services Occupations, Adults 65 and older, Remaining 1A</td>
                                     <td>Pfizer, Moderna</td>
-                                    <td>Link to Website</td>
+                                    <td><a href="https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home" target="_blank">Link to Website</a></td>
                                 </tr>
                                 <tr>
                                     <td>California</td>
