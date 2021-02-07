@@ -15,8 +15,8 @@ function Navbar() {
                 </Link>
 
                 <div className="nav-links-div">
-                    <Link className="nav-link" to={ROUTES.ABOUT}>About</Link>
-                    <Link className="nav-link" to={ROUTES.HISTORY}>History</Link>
+                    {/* <Link className="nav-link" to={ROUTES.ABOUT}>About</Link> */}
+                    {/* <Link className="nav-link" to={ROUTES.HISTORY}>History</Link> */}
                     <Link className="nav-link" to={ROUTES.ELIGIBILITY}>Eligibility</Link>
                 </div>
             </nav>

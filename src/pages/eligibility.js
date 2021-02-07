@@ -5,10 +5,14 @@ class Eligibility extends React.Component {
     render() {
         return (
             <>
+<<<<<<< HEAD
                 <div className="flex flex-col elig-container">                
+=======
+                <div className="flex flex-col about-container">                
+>>>>>>> 5b0c8396d9fb4ca872de458d5d5514fee2b9ef4f
                     <div className="containers">
                         <h1>Eligibility</h1>
-                        <table class="table-fixed">
+                        <table class="table table-fixed">
                             <thead>
                                 <tr>
                                     <th className="w-1/4">State</th>

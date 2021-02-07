@@ -3,10 +3,10 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import "../styles/about.css";
 
-import placeholderimage from "../images/image.jpeg";
 import camisa from "../images/camisa.jpg";
 import uju from "../images/uju.jpg";
 import shanice from "../images/shanice.JPG";
+import yesenia from "../images/yesenia.jpeg";
 
 class About extends React.Component {
     render() {
@@ -14,11 +14,7 @@ class About extends React.Component {
             <>
                 <div className="flex flex-col about-container">
                     <div className="about-section containers">
-                        <h1>About</h1>
-
-
-
-
+                        {/* <h1>About</h1> */}
 
                         <div className="about-section-divider"></div>
                         <h2>Meet the Team</h2>
@@ -51,7 +47,7 @@ class About extends React.Component {
                             {/* Team Member 3 */}
                             <div className="col-sm-6 col-lg-3">
                                 <div className="card">
-                                    <img className="card-img-top" src={placeholderimage} alt="Yesenia" />
+                                    <img className="card-img-top" src={yesenia} alt="Yesenia" />
                                     <div class="card-body">
                                         <h5 class="card-title">Yesenia</h5>
                                         <p class="card-text">Computer Engineering and Robotics at Johns Hopkins University, 2022</p>
