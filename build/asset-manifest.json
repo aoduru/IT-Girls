@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/IT-Girls/static/css/main.b6ef42db.chunk.css",
+    "main.js": "/IT-Girls/static/js/main.69d88751.chunk.js",
+    "main.js.map": "/IT-Girls/static/js/main.69d88751.chunk.js.map",
+    "runtime-main.js": "/IT-Girls/static/js/runtime-main.0b86691a.js",
+    "runtime-main.js.map": "/IT-Girls/static/js/runtime-main.0b86691a.js.map",
+    "static/css/2.040c2062.chunk.css": "/IT-Girls/static/css/2.040c2062.chunk.css",
+    "static/js/2.50363f0d.chunk.js": "/IT-Girls/static/js/2.50363f0d.chunk.js",
+    "static/js/2.50363f0d.chunk.js.map": "/IT-Girls/static/js/2.50363f0d.chunk.js.map",
+    "static/js/3.6348601b.chunk.js": "/IT-Girls/static/js/3.6348601b.chunk.js",
+    "static/js/3.6348601b.chunk.js.map": "/IT-Girls/static/js/3.6348601b.chunk.js.map",
+    "index.html": "/IT-Girls/index.html",
+    "static/css/2.040c2062.chunk.css.map": "/IT-Girls/static/css/2.040c2062.chunk.css.map",
+    "static/css/main.b6ef42db.chunk.css.map": "/IT-Girls/static/css/main.b6ef42db.chunk.css.map",
+    "static/js/2.50363f0d.chunk.js.LICENSE.txt": "/IT-Girls/static/js/2.50363f0d.chunk.js.LICENSE.txt",
+    "static/media/camisa.db19ebd3.jpg": "/IT-Girls/static/media/camisa.db19ebd3.jpg",
+    "static/media/home.css": "/IT-Girls/static/media/hero.8dc2fdce.jpg",
+    "static/media/navicon.657bed64.svg": "/IT-Girls/static/media/navicon.657bed64.svg",
+    "static/media/shanice.619cd91c.JPG": "/IT-Girls/static/media/shanice.619cd91c.JPG",
+    "static/media/uju.ddc2a323.jpg": "/IT-Girls/static/media/uju.ddc2a323.jpg",
+    "static/media/yesenia.75bfa9de.jpeg": "/IT-Girls/static/media/yesenia.75bfa9de.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b86691a.js",
+    "static/css/2.040c2062.chunk.css",
+    "static/js/2.50363f0d.chunk.js",
+    "static/css/main.b6ef42db.chunk.css",
+    "static/js/main.69d88751.chunk.js"
+  ]
+}
