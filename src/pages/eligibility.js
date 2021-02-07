@@ -1,25 +1,21 @@
 import React from 'react';
-
+import "../styles/eligibility.css";
 
 class Eligibility extends React.Component {
-    // constructor(props) {
-    //     super(props);
-    // }
-
     render() {
         return (
             <>
-                <div className="flex flex-col about-container bg-gray-100">                
+                <div className="flex flex-col elig-container">                
                     <div className="containers">
                         <h1>Eligibility</h1>
                         <table class="table-fixed">
                             <thead>
                                 <tr>
-                                    <th>State</th>
-                                    <th>Current Phase</th>
-                                    <th>Eligibility Group</th>
-                                    <th>Vaccine Availability</th>
-                                    <th>Additional Information</th>
+                                    <th className="w-1/4">State</th>
+                                    <th className="w-1/4">Current Phase</th>
+                                    <th className="w-1/2">Eligibility Group</th>
+                                    <th className="w-1/4">Vaccine Availability</th>
+                                    <th className="w-1/4">Additional Information</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -28,75 +24,98 @@ class Eligibility extends React.Component {
                                     <td>Phase 1b</td>
                                     <td>Adults 75 and older and first responders, police officers and firefighters included</td>
                                     <td>Pfizer, Moderna</td>
-                                </tr>
-                                <tr className="bg-emerald-200">
-                                    <td>Alaska</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Arizona</td>
-                                </tr>
-                                <tr>
-                                    <td>Arkansas</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>California</td>
-                                </tr>
-                                <tr>
-                                    <td>Colorado</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Connecticut</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Delaware</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Florida</td>
-                                </tr>
-                                <tr>
-                                    <td>Hawaii</td>
-                                </tr>
-                                <tr>
-                                    <td>Idaho</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Illinois</td>
-                                </tr>
-                                <tr>
-                                    <td>Indiana</td>
-                                </tr>
-                                <tr>
-                                    <td>Iowa</td>
-                                </tr>
-                                <tr>
-                                    <td>Kansas</td>
-                                </tr>
-                                <tr>
-                                    <td>Kentucky</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Louisana</td>
-                                </tr>
-                                <tr>
-                                    <td>Maine</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Maryland</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Massachusetts</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>Michigan</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>New York</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>New Jersey</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                                 <tr>
                                     <td>North Carolina</td>
+                                    <td>Phase 1b</td>
+                                    <td>Adults 75 and older and first responders, police officers and firefighters included</td>
+                                    <td>Pfizer, Moderna</td>
+                                    <td>Link to Website</td>
                                 </tr>
                             </tbody>
                             </table>
