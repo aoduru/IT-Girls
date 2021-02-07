@@ -14,11 +14,7 @@ class About extends React.Component {
             <>
                 <div className="flex flex-col about-container">
                     <div className="about-section containers">
-                        <h1>About</h1>
-
-
-
-
+                        {/* <h1>About</h1> */}
 
                         <div className="about-section-divider"></div>
                         <h2>Meet the Team</h2>

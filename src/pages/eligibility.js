@@ -9,10 +9,10 @@ class Eligibility extends React.Component {
     render() {
         return (
             <>
-                <div className="flex flex-col about-container bg-gray-100">                
+                <div className="flex flex-col about-container">                
                     <div className="containers">
                         <h1>Eligibility</h1>
-                        <table class="table-fixed">
+                        <table class="table table-fixed">
                             <thead>
                                 <tr>
                                     <th>State</th>

@@ -3,6 +3,8 @@ import React from 'react';
 import'bootstrap/dist/css/bootstrap.min.css';
 import "../styles/home.css";
 
+import About from "./about";
+
 
 class Home extends React.Component {
 
@@ -24,17 +26,15 @@ class Home extends React.Component {
             <div className="home-section container">
                 <h2>Be Informed</h2>
                 <div className="row">
-                    <div className="col-md-6 col-lg-4">
-                        image can go here
-                    </div>
-
-                    <div className="col-md-6 col-lg-8">
+                    <div className="col-md-6">
                         <h4>The Problem</h4>
                         <p>
                             There are racial disparities of COVID-19 cases, deaths, and vaccinations in the United States that aren’t being addressed. 
                             This leads communities of colors vulnerable during the pandemic.
                         </p>
+                    </div>
 
+                    <div className="col-md-6">
                         <h4>Our Solution</h4>
                         <p>
                             We want to build a central application that educates its users about vaccine progress, availability, and eligibility.
@@ -64,10 +64,35 @@ class Home extends React.Component {
                     </div>
 
 
-                    <div className="col-md-4"></div>
-                    <div className="col-md-4"></div>
+                    <div className="col-md-4">
+                        <div className="card">
+                            <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEb7BAHJY1Sy3gUxj1qU3yQ565CMpnRKMHxw&usqp=CAU" alt="abcnews logo" />
+                            <div className="card-body">
+                                <h3 className="card-title">Racial Disparities in COVID-19: Key Findings from Available Data and Analysis</h3>
+                                <p><i>"Multiple analyses of available federal, state, and local data show that people of color are experiencing a disproportionate burden of COVID-19 cases and deaths."</i></p>
+                                <button type="button" class="btn"><a href="https://www.kff.org/racial-equity-and-health-policy/issue-brief/racial-disparities-covid-19-key-findings-available-data-analysis/">Read Article</a></button>
+                            </div>
+                        
+                        </div>
+                    </div>
+
+
+                    <div className="col-md-4">
+                        <div className="card">
+                            <img className="card-img-top" src="https://www.naaccr.org/wp-content/uploads/2016/11/cdc-logo.jpg" alt="abcnews logo" />
+                            <div className="card-body">
+                                <h3 className="card-title">Benefits of Getting a COVID-19 Vaccine</h3>
+                                <p><i>"We understand that some people may be concerned about getting vaccinated now that COVID-19 vaccines are available in the United States. While more COVID-19 vaccines are being developed as quickly as possible, routine..."</i></p>
+                                <button type="button" class="btn"><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html">Read Article</a></button>
+                            </div>
+                        
+                        </div>
+                    </div>
+
                 </div>
             </div>
+
+            <About />
 
 
             </>
